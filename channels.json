@@ -23,26 +23,26 @@
         {
             "name": "دجلة",
             "url": "https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8"
-             },
+        }, 
         {
-             "name": "العراقية",
-            "url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8"
+             "name": "الرشيد",
+            "url": "https://media1.livaat.com/static/AL-RASHEED-HD/chunklist.m3u8"
         },
         {
-            "name": "العراقية الاخبارية",
-            "url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8"
+            "name": "الراقدين",
+            "url": "https://arrafidain.tvplayer.online/arrafidaintv/source2/chunks.m3u8"
         },
         {
-            "name": "الشرقية",
-            "url": "https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8"
+            "name": "افاق",
+            "url": "https://s1.ettehadlive.com/live/1/chunklist.m3u8"
         },
         {
-            "name": "الشرقية الاخبارية",
-            "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8"
+            "name": "العهد",
+            "url": "https://148.66.130.171:1935/AlahadLiveStream/AlahadLiveStream_360p/chunklist_w1753655915.m3u8"
         },
         {
-            "name": "الاولى",
-            "url": "https://63b03f7689049.streamlock.net/live/_definst_/1tv/chunklist.m3u8"
+            "name": "الرابعة",
+            "url": "https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8"
         },
     
         }
