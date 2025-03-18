@@ -16,72 +16,91 @@
             "name": "MBC 1",
             "url": "https://your-mbc1-channel-url.com/stream.m3u8"
         },
-        {"name": "MBC 1",
+        {
+            "name": "MBC 1",
             "url": "https://your-mbc1-channel-url.com/stream.m3u8"
         },
-        {"name": "MBC 1",
+        {
+            "name": "MBC 1",
             "url": "https://your-mbc1-channel-url.com/stream.m3u8"
         },
-        {"name": "MBC 1",
+        {
+            "name": "MBC 1",
             "url": "https://your-mbc1-channel-url.com/stream.m3u8"
         },
-        {"name": "MBC 1",
+        {
+            "name": "MBC 1",
             "url": "https://your-mbc1-channel-url.com/stream.m3u8"
         },
-        {"name": "MBC 1",
+        {
+            "name": "MBC 1",
             "url": "https://your-mbc1-channel-url.com/stream.m3u8"
         },
-        {"name": "MBC 1",
+        {
+            "name": "MBC 1",
             "url": "https://your-mbc1-channel-url.com/stream.m3u8"
         },
-        {"name": "MBC 1",
+        {
+            "name": "MBC 1",
             "url": "https://your-mbc1-channel-url.com/stream.m3u8"
         },
-        {"name": "MBC 1",
+   
+            "name": "MBC 1",
             "url": "https://your-mbc1-channel-url.com/stream.m3u8"        },
-        },
-        {"name": "العراقية",
+      
+        {
+            "name": "العراقية",
             "url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8"
         },
-            {"name": "العراقية الاخبارية",
+        {
+                "name": "العراقية الاخبارية",
               "url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8"
         },
-        {"name": "الشرقية",
+        }
+            "name": "الشرقية",
            "url": "https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8"
         },
-        {"name": "الشرقية الاخبارية",
+        {
+            "name": "الشرقية الاخبارية",
             "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8"
         
         },  
-        {"name": "الاولى",
+        }
+            "name": "الاولى",
             "url": "https://63b03f7689049.streamlock.net/live/_definst_/1tv/chunklist.m3u8"
       
         },
-        { "name": "دجلة",
+        }
+            "name": "دجلة",
             "url": "https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8"
         
         },
-        {"name": "الرشيد",
+        }
+            "name": "الرشيد",
             "url": "https://media1.livaat.com/static/AL-RASHEED-HD/chunklist.m3u8"
         
         },  
-        {"name": "الراقدين",
+        }
+            "name": "الراقدين",
             "url": "https://arrafidain.tvplayer.online/arrafidaintv/source2/chunks.m3u8"
     
         },
-        {"name": "افاق",
+        }
+            "name": "افاق",
             "url": "https://s1.ettehadlive.com/live/1/chunklist.m3u8"
        
         },
-        {"name": "العهد",
+        }
+            "name": "العهد",
             "url": "https://148.66.130.171:1935/AlahadLiveStream/AlahadLiveStream_360p/chunklist_w1753655915.m3u8"
 
         
         },
-        {"name": "MBC 1",
+        {
+            "name": "MBC 1",
             "url": "https://your-mbc1-channel-url.com/stream.m3u8"
         },
-        {
+        }
             "name": "MBC 2",
             "url": "https://your-mbc2-channel-url.com/stream.m3u8"
         },
@@ -91,7 +110,7 @@
         }
     ],
     "sports": [
-        {
+        }
             "name": "beIN Sports 1",
             "url": "https://your-bein1-channel-url.com/stream.m3u8"
         },
