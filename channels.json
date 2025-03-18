@@ -1,19 +1,56 @@
 {
-  "sports": [
-    { "name": "📡 beIN Sports 1", "url": "https://example.com/stream/bein1.m3u8" },
-    { "name": "📡 beIN Sports 2", "url": "https://example.com/stream/bein2.m3u8" },
-    { "name": "⚽ Al Kass", "url": "https://example.com/stream/kass.m3u8" }
-  ],
-  "entertainment": [
-    { "name": "🎭 MBC 1", "url": "https://example.com/stream/mbc1.m3u8" },
-    { "name": "🌍 Rotana Cinema", "url": "https://example.com/stream/rotana.m3u8" }
-  ],
-  "news": [
-    { "name": "📰 قناة العربية", "url": "https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8" },
-    { "name": "📺 قناة الجزيرة", "url": "https://example.com/stream/aljazeera.m3u8" }
-  ],
-  "arabic": [
-    { "name": "📡 قناة العراق", "url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8" },
-    { "name": "📡 قناة الشرقية", "url": "https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8" }
-  ]
+    "arabic": [
+        {
+            "name": "الجزيرة",
+            "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+        },
+        {
+            "name": "العربية",
+            "url": "https://your-arabia-channel-url.com/stream.m3u8"
+        },
+        {
+            "name": "MBC 1",
+            "url": "https://your-mbc1-channel-url.com/stream.m3u8"
+        },
+        {
+            "name": "MBC 2",
+            "url": "https://your-mbc2-channel-url.com/stream.m3u8"
+        },
+        {
+            "name": "روتانا سينما",
+            "url": "https://your-rotana-channel-url.com/stream.m3u8"
+        }
+    ],
+    "sports": [
+        {
+            "name": "beIN Sports 1",
+            "url": "https://your-bein1-channel-url.com/stream.m3u8"
+        },
+        {
+            "name": "beIN Sports 2",
+            "url": "https://your-bein2-channel-url.com/stream.m3u8"
+        }
+    ],
+    "entertainment": [
+        {
+            "name": "MBC Bollywood",
+            "url": "https://your-mbcbollywood-channel-url.com/stream.m3u8"
+        }
+    ],
+    "variety": [
+        {
+            "name": "National Geographic",
+            "url": "https://your-natgeo-channel-url.com/stream.m3u8"
+        }
+    ],
+    "countries": [
+        {
+            "name": "القناة المصرية",
+            "url": "https://your-egyptian-channel-url.com/stream.m3u8"
+        },
+        {
+            "name": "القناة السعودية",
+            "url": "https://your-saudi-channel-url.com/stream.m3u8"
+        }
+    ]
 }
