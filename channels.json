@@ -1,37 +1,135 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="AMC.af",AMC (1080p)
-https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ATNNews.af",ATN News (720p) [Not 24/7]
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="BaharTV.af",Bahar TV (720p) [Not 24/7]
-https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
-#EXTINF:-1 tvg-id="BarbudMusic.af",Barbud Music (720p)
-https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8
-#EXTINF:-1 tvg-id="DunyaNawTV.af",Dunya Naw TV (576p)
-https://dunyanhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="EslahTV.af",Eslah TV (720p)
-https://eslahtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="HewadTV.af",Hewad TV (720p) [Not 24/7]
-http://51.210.199.58/hls/stream.m3u8
-#EXTINF:-1 tvg-id="",Iman TV (480p)
-https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
-#EXTINF:-1 tvg-id="KayhanTV.af",Kayhan TV (720p)
-https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="NoorTV.af",Noor TV (720p)
-https://www.hewadwal.com:19360/noortv_abr/noortv_abr.m3u8
-#EXTINF:-1 tvg-id="RTA.af",RTA (1080p)
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
-#EXTINF:-1 tvg-id="RTAEducation.af",RTA Education (1080p)
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8
-#EXTINF:-1 tvg-id="RTANews.af",RTA News (1080p)
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8
-#EXTINF:-1 tvg-id="RTASport.af",RTA Sport (1080p)
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
-#EXTINF:-1 tvg-id="ShamsTV.af",Shams TV
-https://fflive-darya-educationtv.b-cdn.net/master.m3u8
-#EXTINF:-1 tvg-id="SharqRadioTV.af",Sharq Radio TV (1080p)
-https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TamadonTV.af",Tamadon TV (720p)
-https://hls.tamadon.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TOLOnews.af",Tolo News (720p)
-https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
+{
+    "arabic": [
+        {
+            
+            
+            "name": " 1دبي زمان",
+            "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+
+        },
+        {
+            "name": " تجريبي",
+            "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+            
+        },
+        {
+            "name": "الرياضية off",
+            "url": "https://mn-nl.mncdn.com/qaf/live/playlist.m3u8"
+            
+        },
+        {
+            "name": " تجريبي",
+            "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+            
+        },
+        {
+            "name": " العربية",
+            "url": "https://your-arabia-channel-url.com/stream.m3u8"
+        },
+        {
+            "name": "  MBC 1",
+            "url": "https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8"
+        },
+        {
+            "name": " تجريبي",
+            "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+            
+        },
+        {
+            "name": " تجريبي",
+            "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+            
+        },
+        {
+            "name": " تجريبي",
+            "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+            
+        },
+        {
+            "name": " تجريبي",
+            "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+            
+        },
+        {
+            "name": " تجريبي",
+            "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+            
+        },
+        {
+            "name": "حيدر",
+            "url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8"
+        },
+        {
+            "name": "العراقية الإخبارية",
+            "url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8"
+        },
+        {
+            "name": "الشرقية",
+            "url": "https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8"
+        },
+        {
+            "name": "الشرقية الإخبارية",
+            "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8"
+        },
+        {
+            "name": "الأولى",
+            "url": "https://63b03f7689049.streamlock.net/live/_definst_/1tv/chunklist.m3u8"
+        },
+        {
+            "name": "دجلة",
+            "url": "https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8"
+        },
+        {
+            "name": "الرشيد",
+            "url": "https://media1.livaat.com/static/AL-RASHEED-HD/chunklist.m3u8"
+        },
+        {
+            "name": "الرافدين",
+            "url": "https://arrafidain.tvplayer.online/arrafidaintv/source2/chunks.m3u8"
+        },
+        {
+            "name": "آفاق",
+            "url": "https://s1.ettehadlive.com/live/1/chunklist.m3u8"
+        },
+        {
+            "name": "العهد",
+            "url": "https://148.66.130.171:1935/AlahadLiveStream/AlahadLiveStream_360p/chunklist_w1753655915.m3u8"
+        },
+        {
+            "name": "MBC 2",
+            "url": "https://your-mbc2-channel-url.com/stream.m3u8"
+        },
+        {
+            "name": "روتانا سينما",
+            "url": "https://your-rotana-channel-url.com/stream.m3u8"
+        }
+    ],
+    "sports": [
+        {
+            "name": "beIN Sports 2",
+            "url": "https://your-bein2-channel-url.com/stream.m3u8"
+        }
+    ],
+    "entertainment": [
+        {
+            "name": "MBC Bollywood",
+            "url": "https://your-mbcbollywood-channel-url.com/stream.m3u8"
+        }
+    ],
+    "variety": [
+        {
+            "name": "National Geographic",
+            "url": "https://your-natgeo-channel-url.com/stream.m3u8"
+        }
+    ],
+    "countries": [
+        {
+            "name": "القناة المصرية",
+            "url": "https://your-egyptian-channel-url.com/stream.m3u8"
+        },
+        {
+            "name": "القناة السعودية",
+            "url": "https://your-saudi-channel-url.com/stream.m3u8"
+        }
+    ]
+}
