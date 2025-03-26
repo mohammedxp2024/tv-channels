@@ -1,11 +1,129 @@
 {
     "arabic": [
         {
+            "name": "الأردنية   ",
+            "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8"
+        },
+        {
+
+            "name": "رؤيـــا  ",
+            "url": "https://royatv-live.daioncdn.net/royatv/royatv.m3u8"
+        },
+        {
+            "name": "رؤيا الإخبارية ",
+            "url": "https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch39.m3u8"
+        },
+        {
+            "name": "عـــمّــــان  ",
+            "url": "https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8"
+        },
+        {
+            "name": "أبوظبي",
+            "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8"
+        },
+        {
+            "name": "الإمارات  ",
+            "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8"
+        },
+        {
+            "name": "المملكة  ",
+            "url": "https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8"
+        },
+        {
+            "name": "ناشيونال جيوغرافيك أبو ظبي ",
+            "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8"
+        },
+        {
+            "name": "أبو ظبي الرياضية 1",
+            "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8"
+        },
+        {
+            "name": "أبو ظبي الرياضية 2",
+            "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8"
+        },
+        {
+            "name": "ياس",
+            "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8"
+        },
+        {
+            "name": "ماجد",
+            "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8"
+        },
+        {
+            "name": "بينونة",
+            "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8"
+        },
+        {
+            "name": "دبي",
+            "url": "https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8"
+        },
+        {
+            "name": "سما دبي",
+            "url": "https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8"
+        },
+        {
+            "name": " دبي زمان",
+            "url": "https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8"
+        },
+        {
+            "name": "دبي وان",
+            "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+        },
+        {
+            "name": "دبي الرياضية 1",
+            "url": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8"
+        },
+        {
+            "name": "نور دبي ",
+            "url": "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8"
+        },
+        {
+            "name": ",دبي الرياضية 2",
+            "url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+        },
+        {
+            "name": "دبي الرياضية 3",
+            "url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8"
+        },
+        {
+            "name": "الجزيرة  ",
+            "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+        },
+        {
+            "name": "الجزيرة  ",
+            "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+        },
+        {
+            "name": "الجزيرة  ",
+            "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+        },
+        {
+            "name": "الجزيرة  ",
+            "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+        },
+        {
+            "name": "الجزيرة  ",
+            "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+        },
+        {
+            "name": "الجزيرة  ",
+            "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+        },
+        {
+            "name": "الجزيرة  ",
+            "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+        },
+        {
             "name": "الجزيرة  ",
             "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
         },
         {
 
+
+
+
+
+            
             "name": " 1دبي زمان",
             "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
 
