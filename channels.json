@@ -13,12 +13,47 @@
             
         },
         {
+            "name": "MBC 1",
+            "url": "https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8"
+            
+        },
+        {
+            "name": " تجريبي",
+            "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+            
+        },
+        {
             "name": " العربية",
             "url": "https://your-arabia-channel-url.com/stream.m3u8"
         },
         {
             "name": "  MBC 1",
             "url": "https://your-mbc1-channel-url.com/stream.m3u8"
+        },
+        {
+            "name": " تجريبي",
+            "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+            
+        },
+        {
+            "name": " تجريبي",
+            "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+            
+        },
+        {
+            "name": " تجريبي",
+            "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+            
+        },
+        {
+            "name": " تجريبي",
+            "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+            
+        },
+        {
+            "name": " تجريبي",
+            "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+            
         },
         {
             "name": "حيدر",
