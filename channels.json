@@ -1150,7 +1150,12 @@
             "url": "https://your-natgeo-channel-url.com/stream.m3u8"
         }
     ],
-    "countries"
+    "countries" [
+        {
+            "name": "National Geographic",
+            "url": "https://your-natgeo-channel-url.com/stream.m3u8"
+        }
+    ],
         
         
 
