@@ -1150,12 +1150,9 @@
             "url": "https://your-natgeo-channel-url.com/stream.m3u8"
         }
     ],
-    "countries": [
-        {
-            "name": "القناة المصرية",
-            "url": "https://your-egyptian-channel-url.com/stream.m3u8"
-        },
-        {
+    "countries"
+        
+        
 
 
 
@@ -1167,6 +1164,6 @@
 
 
             
-        }
-    ]
-}
+        
+    
+
