@@ -1,5 +1,6 @@
-[
-    {
+{
+    "arabic": [
+        {
         "name": "PANORAMA FM",
         "url": "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8"
     },
