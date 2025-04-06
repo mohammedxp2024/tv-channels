@@ -1,13 +1,13 @@
 {
     "arabic": [
         {
+            
         "name": "PANORAMA FM",
         "url": "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8"
     },
     {
 
-
-"name": " الأردنية ",
+    "name": " الأردنية ",
     "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8"
   },
   {
@@ -2127,9 +2127,36 @@
     {
         "name": "القناة السعودية",
         "url": "https://your-saudi-channel-url.com/stream.m3u8"
-    }
-]
-        
+       }
+    ],
+    "sports": [
+        {
+            "name": "beIN Sports 2",
+            "url": "https://your-bein2-channel-url.com/stream.m3u8"
+        }
+    ],
+    "entertainment": [
+        {
+            "name": "MBC Bollywood",
+            "url": "https://your-mbcbollywood-channel-url.com/stream.m3u8"
+        }
+    ],
+    "variety": [
+        {
+            "name": "National Geographic",
+            "url": "https://your-natgeo-channel-url.com/stream.m3u8"
+        }
+    ],
+    "countries": [
+        {
+            "name": "القناة المصرية",
+            "url": "https://your-egyptian-channel-url.com/stream.m3u8"
+        },
+        {
+            "name": "القناة السعودية",
+            "url": "https://your-saudi-channel-url.com/stream.m3u8"
+        }
+    ]
+}     
 
-    
 
