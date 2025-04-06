@@ -1117,9 +1117,34 @@
     "url": "https://new.cache-stream.workers.dev/stream/UCQfwfsi5VrQ8yKZ-UWmAEFg/live.m3u8"
   
         },
-        {
+        
 
-
+  ],
+  "sports": [
+    {
+      "name": "beIN Sports 2",
+      "url": "https://your-bein2-channel-url.com/stream.m3u8"
+    }
+  ],
+  "entertainment": [
+    {
+      "name": "MBC Bollywood",
+      "url": "https://your-mbcbollywood-channel-url.com/stream.m3u8"
+    }
+  ],
+  "variety": [
+    {
+      "name": "National Geographic",
+      "url": "https://your-natgeo-channel-url.com/stream.m3u8"
+    }
+  ],
+  "countries": [
+    {
+      "name": "National Geographic",
+      "url": "https://your-natgeo-channel-url.com/stream.m3u8"
+    }
+  ]
+}
 
 
         
@@ -1127,44 +1152,5 @@
 
         
 
-    
-    "sports": [
-        {
-            "name": "beIN Sports 2",
-            "url": "https://your-bein2-channel-url.com/stream.m3u8"
-        }
-    ],
-    "entertainment": [
-        {
-            "name": "MBC Bollywood",
-            "url": "https://your-mbcbollywood-channel-url.com/stream.m3u8"
-        }
-    ],
-    "variety": [
-        {
-            "name": "National Geographic",
-            "url": "https://your-natgeo-channel-url.com/stream.m3u8"
-        }
-    ],
-    "countries" [
-        {
-            "name": "National Geographic",
-            "url": "https://your-natgeo-channel-url.com/stream.m3u8"
-        }
-    ],
-        
-        
-
-
-
-
-
-
-
-
-
-
-            
-        
     
 
