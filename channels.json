@@ -10,87 +10,87 @@
         "url": "https://3rbcafee.glitch.me/https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master450.m3u8"
     },
     {
-"name": "2M Monde (360p)",
+"name": "2M Monde",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8"
   },
   {
-    "name": "Abalfadhl TV (720p)",
+    "name": "Abalfadhl TV",
     "url": "https://t.northtelecom.org/ABALFADHLTV.m3u8"
   },
   {
-    "name": "ABNsat (720p)",
+    "name": "ABNsat",
     "url": "http://rtmp1.abnsat.com/hls/arabic.m3u8"
   },
   {
-    "name": "Abu Dhabi Sports 1 (1080p)",
+    "name": "Abu Dhabi Sports 1",
     "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
   },
   {
-    "name": "Afarin TV (720p) [Not 24/7]",
+    "name": "Afarin TV",
     "url": "https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8"
   },
   {
-    "name": "Al Hayat TV (720p)",
+    "name": "Al Hayat TV",
     "url": "http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8"
   },
   {
-    "name": "Al Iraqia (720p)",
+    "name": "Al Iraqia",
     "url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8"
   },
   {
-    "name": "Al Iraqia News (720p)",
+    "name": "Al Iraqia News",
     "url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8"
   },
   {
-    "name": "Al Iraqia Sport (1080p) [Geo-blocked]",
+    "name": "Al Iraqia Sport",
     "url": "https://au7live.tooliserver.com/live/149075_0.m3u8?session="
   },
   {
-    "name": "like Gecko) Mobile/15E148\",Al Jazeera Arabic (480p)",
+    "name": "Al Jazeera Arabic",
     "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
   },
   {
-    "name": "Al Jazeera Documentary (270p) [Geo-blocked]",
+    "name": "Al Jazeera Documentary",
     "url": "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8"
   },
   {
-    "name": "Al Jazeera Mubasher (1080p)",
+    "name": "Al Jazeera Mubasher",
     "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"
   },
   {
-    "name": "Al Qamar TV (360p)",
+    "name": "Al Qamar TV",
     "url": "https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8"
   },
   {
-    "name": "Al Rafidain (720p) [Not 24/7]",
+    "name": "Al Rafidain",
     "url": "https://cdg8.edge.technocdn.com/arrafidaintv/source/playlist.m3u8"
   },
   {
-    "name": "Al Rasheed (408p) [Not 24/7]",
+    "name": "Al Rasheed",
     "url": "https://media1.livaat.com/AL-RASHEED-HD/index.m3u8"
   },
   {
-    "name": "Al Sharqiya (1080p) [Not 24/7]",
+    "name": "Al Sharqiya",
     "url": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8"
   },
   {
-    "name": "Al Sharqiya News (1080p)",
+    "name": "Al Sharqiya News",
     "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8"
   },
   {
-    "name": "Al-Etejah (576p) [Not 24/7]",
+    "name": "Al-Etejah",
     "url": "http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/playlist.m3u8"
   },
   {
-    "name": "Al-Jawadain TV (1080p) [Not 24/7]",
+    "name": "Al-Jawadain TV",
     "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
   },
   {
-    "name": "Al-Naeem TV (576p)",
+    "name": "Al-Naeem TV",
     "url": "https://nl2.livekadeh.com/hls2/alnaeem_high.m3u8"
   },
   {
-    "name": "Alaraby 2 TV (1080p)",
+    "name": "Alaraby 2 TV",
     "url": "https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8"
   },
   {
@@ -98,155 +98,155 @@
     "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8"
   },
   {
-    "name": "Alforat TV (1080p)",
+    "name": "Alforat TV",
     "url": "http://95.216.180.111:1935/live/10/playlist.m3u8"
   },
   {
-    "name": "AlGhadeer (720p) [Not 24/7]",
+    "name": "AlGhadeer",
     "url": "https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8"
   },
   {
-    "name": "Alhurra (720p)",
+    "name": "Alhurra",
     "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8"
   },
   {
-    "name": "Alhurra Iraq (720p)",
+    "name": "Alhurra Iraq",
     "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8"
   },
   {
-    "name": "Alkafeel: The window of Al-Kafeel (720p) [Not 24/7]",
+    "name": "Alkafeel",
     "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8"
   },
   {
-    "name": "Alquran (1080p)",
+    "name": "Alquran",
     "url": "https://ktv.imamhussain.org/stream/hls/ch1.m3u8"
   },
   {
-    "name": "Amozhgary TV (1080p)",
+    "name": "Amozhgary TV",
     "url": "https://media.streambrothers.com:1936/8248/8248/playlist.m3u8"
   },
   {
-    "name": "Angel TV Arabia (720p)",
+    "name": "Angel TV Arabia",
     "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelarabia_all/playlist.m3u8"
   },
   {
-    "name": "Assyrian ANB (720p)",
+    "name": "Assyrian ANB",
     "url": "https://anbsat.ddns.net/anb/live/ANB/playlist.m3u8"
   },
   {
-    "name": "Bayyinat TV (404p)",
+    "name": "Bayyinat TV",
     "url": "https://nl2.livekadeh.com/hls2/Bayyinat_high.m3u8"
   },
   {
-    "name": "BBC Arabic (720p)",
+    "name": "BBC Arabic",
     "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd"
   },
   {
-    "name": "BeitolAbbas TV Channel (720p)",
+    "name": "BeitolAbbas TV",
     "url": "https://live.beitolabbas.tv/live/beitolabbastv.m3u8"
   },
   {
-    "name": "Bloomberg TV EMEA Live Event (720p)",
+    "name": "Bloomberg TV",
     "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8"
   },
   {
-    "name": "Cartoon Network Arabia (1080p)",
+    "name": " Arabia",
     "url": "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8"
   },
   {
-    "name": "CGTN Arabic (576p) [Not 24/7]",
+    "name": "CGTN Arabic",
     "url": "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8"
   },
   {
-    "name": "CNBC Arabia (1080p)",
+    "name": "CNBC Arabia",
     "url": "http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.dailymotion.com/CNBCArabia"
   },
   {
-    "name": "Dijlah Tarab (1080p)",
+    "name": "Dijlah Tarab",
     "url": "https://ghaasiflu.online/tarab/index.m3u8"
   },
   {
-    "name": "Dijlah TV (1080p)",
+    "name": "Dijlah TV",
     "url": "http://91.134.145.75:10001/Dijlah/index.m3u8"
   },
   {
-    "name": "Dua Channel (720p)",
+    "name": "Dua Channel",
     "url": "https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8"
   },
   {
-    "name": "Dubai One (1080p)",
+    "name": "Dubai One",
     "url": "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8"
   },
   {
-    "name": "DW Arabic (1080p)",
+    "name": "DW Arabic",
     "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8"
   },
   {
-    "name": "France 24 Arabic (1080p)",
+    "name": "France 24 Arabic",
     "url": "https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8"
   },
   {
-    "name": "Gali Kurdistan (720p) [Not 24/7]",
+    "name": "Gali Kurdistan",
     "url": "https://live.bradosti.net/live/GaliKurdistan_playlist.m3u8"
   },
   {
-    "name": "Hadi TV Azeri and Russian (720p)",
+    "name": "Hadi TV Azeri",
     "url": "https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8"
   },
   {
-    "name": "Hadi TV English and Urdu (720p)",
+    "name": "Hadi TV English",
     "url": "https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8"
   },
   {
-    "name": "Hadi TV Farsi (720p)",
+    "name": "Hadi TV Farsi",
     "url": "https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8"
   },
   {
-    "name": "Hadi TV Hausa (720p)",
+    "name": "Hadi TV",
     "url": "https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8"
   },
   {
-    "name": "Hadi TV Pashto and Persian (720p)",
+    "name": "Hadi TV Pashto",
     "url": "https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8"
   },
   {
-    "name": "Imam Ali TV (1080p) [Not 24/7]",
+    "name": "Imam Ali TV",
     "url": "https://ythls.onrender.com/UCi4CSgJk3i_slWnWG9Y14qA.m3u8"
   },
   {
-    "name": "Imam Hussein TV 1 (1080p) [Not 24/7]",
+    "name": "Imam Hussein TV 1",
     "url": "https://live.imamhossaintv.com/live/ih1.m3u8"
   },
   {
-    "name": "Imam Hussein TV 2 (1080p) [Not 24/7]",
+    "name": "Imam Hussein TV 2",
     "url": "https://live.imamhossaintv.com/live/ih2.m3u8"
   },
   {
-    "name": "Imam Hussein TV 3 (1080p) [Not 24/7]",
+    "name": "Imam Hussein TV 3",
     "url": "https://live.imamhossaintv.com/live/ih3.m3u8"
   },
   {
-    "name": "Imam Hussein TV 4 (1080p) [Not 24/7]",
+    "name": "Imam Hussein TV 4",
     "url": "https://live.imamhossaintv.com/live/ih4.m3u8"
   },
   {
-    "name": "Imam Hussein TV 5 (1080p) [Not 24/7]",
+    "name": "Imam Hussein TV 5",
     "url": "https://mn-nl.mncdn.com/alzahra/alzahra_hd.smil/playlist.m3u8"
   },
   {
-    "name": "Imam Hussein TV 6 (1080p) [Not 24/7]",
+    "name": "Imam Hussein TV 6",
     "url": "https://mn-nl.mncdn.com/arbaeen/arbaeen_hd.smil/index.m3u8"
   },
   {
-    "name": "iNEWS (1080p) [Not 24/7]",
+    "name": "iNEWS",
     "url": "https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8"
   },
   {
-    "name": "Ishtar TV (1080p)",
+    "name": "Ishtar TV",
     "url": "http://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8"
   },
   {
-    "name": "Karbala TV (1080p) [Not 24/7]",
+    "name": "Karbala TV",
     "url": "https://ythls.onrender.com/UCI4gZRGRdfnfPajdxs8QtPQ.m3u8"
   },
   {
@@ -254,47 +254,47 @@
     "url": "https://5ab29cc78f681.streamlock.net/IHTV/livestream/playlist.m3u8"
   },
   {
-    "name": "Kurd Channel (480p)",
+    "name": "Kurd Channel",
     "url": "https://kurd-channel.ikoflix.com/hls/stream_2.m3u8"
   },
   {
-    "name": "Kurdistan 24 (720p)",
+    "name": "Kurdistan 24",
     "url": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8"
   },
   {
-    "name": "Kurdistan TV (720p) [Not 24/7]",
+    "name": "Kurdistan TV",
     "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8"
   },
   {
-    "name": "Kurdsat (1080p)",
+    "name": "Kurdsat",
     "url": "https://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/manifest.m3u8"
   },
   {
-    "name": "KurdSat News (1080p) [Not 24/7]",
+    "name": "KurdSat News",
     "url": "https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8"
   },
   {
-    "name": "Marjaeyat TV Arabic (1080p)",
+    "name": "Marjaeyat TV Arabic",
     "url": "https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8"
   },
   {
-    "name": "Marjaeyat TV English (1080p)",
+    "name": "Marjaeyat TV English",
     "url": "https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8"
   },
   {
-    "name": "Marjaeyat TV Persian (240p) [Not 24/7]",
+    "name": "Marjaeyat TV Persian",
     "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8"
   },
   {
-    "name": "MBC 1 (1080p)",
+    "name": "MBC 1",
     "url": "https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8"
   },
   {
-    "name": "MBC 3 EUR (1080p)",
+    "name": "MBC 3",
     "url": "https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8"
   },
   {
-    "name": "MBC 4 (1080p)",
+    "name": "MBC 4",
     "url": "https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8"
   },
   {
@@ -302,95 +302,95 @@
     "url": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
   },
   {
-    "name": "MBC Drama KSA (1080p)",
+    "name": "MBC Drama",
     "url": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8"
   },
   {
-    "name": "MBC FM (1080p)",
+    "name": "MBC FM ",
     "url": "https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8"
   },
   {
-    "name": "MBC Iraq (1080p)",
+    "name": "MBC Iraq",
     "url": "https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8"
   },
   {
-    "name": "MBC Plus Drama (1080p)",
+    "name": "MBC Plus Drama",
     "url": "https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8"
   },
   {
-    "name": "National Geographic Abu Dhabi (1080p)",
+    "name": " Abu Dhabi",
     "url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8"
   },
   {
-    "name": "NRT TV (720p) [Not 24/7]",
+    "name": "NRT TV",
     "url": "https://media.streambrothers.com:1936/8226/8226/playlist.m3u8"
   },
   {
-    "name": "NUBAR Plus TV (720p)",
+    "name": "NUBAR Plus TV ",
     "url": "http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8"
   },
   {
-    "name": "NUBAR TV (1080p)",
+    "name": "NUBAR TV",
     "url": "http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8"
   },
   {
-    "name": "Payam TV (720p) [Not 24/7]",
+    "name": "Payam TV",
     "url": "https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8"
   },
   {
-    "name": "PMC (1080p)",
+    "name": "PMC",
     "url": "https://hls.pmchd.live/hls/stream.m3u8"
   },
   {
-    "name": "PMC Royale (720p) [Not 24/7]",
+    "name": "PMC Royale",
     "url": "https://rohls.pmc.live/hls/stream.m3u8"
   },
   {
-    "name": "RT Arabic (1080p) [Geo-blocked]",
+    "name": "RT Arabic",
     "url": "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8"
   },
   {
-    "name": "Rudaw TV (1080p)",
+    "name": "Rudaw TV",
     "url": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"
   },
   {
-    "name": "Sky News Arabia (720p) [Not 24/7]",
+    "name": "Sky News Arabia ",
     "url": "https://stream.skynewsarabia.com/hls/sna.m3u8"
   },
   {
-    "name": "Sky News Arabia (Portrait) (1280p) [Not 24/7]",
+    "name": "Sky News Arabia",
     "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8"
   },
   {
-    "name": "Speda TV (720p)",
+    "name": "Speda TV",
     "url": "https://speda.dwasat.com/upload/images/spedahd.m3u8"
   },
   {
-    "name": "SPI Quran (720p)",
+    "name": "SPI Quran",
     "url": "https://cdn1.karwan.tv/spi-quran/index.m3u8"
   },
   {
-    "name": "SPI TV (720p)",
+    "name": "SPI TV",
     "url": "https://cdn1.karwan.tv/spi-tv/index.m3u8"
   },
   {
-    "name": "TRT Arabi (1080p) [Not 24/7]",
+    "name": "TRT Arabi",
     "url": "https://tv-trtarabi.live.trt.com.tr/master.m3u8"
   },
   {
-    "name": "UTV (1080p)",
+    "name": "UTV",
     "url": "https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8"
   },
   {
-    "name": "Waar TV (480p)",
+    "name": "Waar TV",
     "url": "https://ca-rt.onetv.app/Waar/index-0.m3u8"
   },
   {
-    "name": "Wanasah (1080p)",
+    "name": "Wanasah",
     "url": "https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8"
   },
   {
-    "name": "Zagros (720p) [Not 24/7]",
+    "name": "Zagros",
     "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8"
 
  },
