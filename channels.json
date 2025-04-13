@@ -11182,8 +11182,7 @@
             "name": "القناة السعودية",
             "url": "https://your-saudi-channel-url.com/stream.m3u8"
         }
-    ]
-}     
+    ],     
 "Global": [
 
          {
@@ -11205,8 +11204,9 @@
         {
             "name": "روتانا سينما",
             "url": "https://your-rotana-channel-url.com/stream.m3u8"
-         }
+            }
     ]
+}
 
 
 
