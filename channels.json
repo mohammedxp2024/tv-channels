@@ -11186,24 +11186,425 @@
 "Global": [
 
          {
-            "name": "الجزيرة",
-            "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
-        },
-        {
-            "name": "العربية",
-            "url": "https://your-arabia-channel-url.com/stream.m3u8"
-        },
-        {
-            "name": "MBC 1",
-            "url": "https://your-mbc1-channel-url.com/stream.m3u8"
-        },
-        {
-            "name": "MBC 2",
-            "url": "https://your-mbc2-channel-url.com/stream.m3u8"
-        },
-        {
-            "name": "روتانا سينما",
-            "url": "https://your-rotana-channel-url.com/stream.m3u8"
+            "name": "Vintage TV",
+    "url": "https://chestnut-vintagetv-1-us.freemoviesplus.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "VOA TV Africa",
+    "url": "https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8"
+  },
+  {
+    "name": "VoA TV Indian Ocean",
+    "url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voa.stream/playlist.m3u8"
+  },
+  {
+    "name": "Vogue",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8"
+  },
+  {
+    "name": "Voyager Documentaries",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8"
+  },
+  {
+    "name": "VSiN",
+    "url": "https://stream.rcncdn.com/live/vsinproxy.m3u8"
+  },
+  {
+    "name": "W14DK-D 14.1 TV Delmarva",
+    "url": "https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8"
+  },
+  {
+    "name": "W14DK-D 14.2 NEWSNET",
+    "url": "https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8"
+  },
+  {
+    "name": "W14DK-D 14.3 RetroTV",
+    "url": "https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8"
+  },
+  {
+    "name": "W14DK-D 14.5",
+    "url": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
+  },
+  {
+    "name": "W14DK-D 14.7",
+    "url": "https://2-fss-2.streamhoster.com/pl_118/amlst:204972-3078008/playlist.m3u8"
+  },
+  {
+    "name": "WAPT-TV News Jackson MS ",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8"
+  },
+  {
+    "name": "War and Military Now",
+    "url": "https://alliantcontent-warandmilitarynow-1-us.freemoviesplus.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Watch It Kid",
+    "url": "https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8"
+  },
+  {
+    "name": "Watch It Scream",
+    "url": "https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8"
+  },
+  {
+    "name": "WatchMojo",
+    "url": "https://watchmojo-1-eu.freemoviesplus.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Waypoint ",
+    "url": "https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8"
+  },
+  {
+    "name": "WBAL-TV New",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8"
+  },
+  {
+    "name": "WBBJ (News)",
+    "url": "https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8"
+  },
+  {
+    "name": "WCBI (News)",
+    "url": "https://dai.google.com/linear/hls/event/qLrnhs3RQUa2zMw9UBkroQ/master.m3u8"
+  },
+  {
+    "name": "WCCA 194 ",
+    "url": "https://worcester.vod.castus.tv/live/ch1.m3u8"
+  },
+  {
+    "name": "WCOT 13",
+    "url": "https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8"
+  },
+  {
+    "name": "WCVB-TV News Boston MA",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8"
+  },
+  {
+    "name": "WDAM DT (Grit TV)",
+    "url": "https://dai2-playlistserver.aws.syncbak.com/cpl/20980038/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDk4MDAzOCIsImNpZCI6MjE5MDMsInNpZCI6MTU4LCJtZDUiOiIwN2QxMmRjNjAwOTM2MGI0MmY3NjNkNTRiMWIwZjI1NCIsImlhdCI6MTY2MDkxMzU2MCwiZXhwIjoxNjkyNDQ5NTYwLCJpc3MiOiJTeW5jYmFrIChURykifQ.JrWVgwzIn_RcNuWhkzIjr1i4qjXU1v4n0KFrSzoTQvQ"
+  },
+  {
+    "name": "WDAY News Fargo ND",
+    "url": "https://player-api.new.livestream.com/accounts/27442514/events/8305246/live.m3u8"
+  },
+  {
+    "name": "WDAY-X Automatic Weather",
+    "url": "https://player-api.new.livestream.com/accounts/27442514/events/8331542/live.m3u8"
+  },
+  {
+    "name": "WDEF-TV News ",
+    "url": "http://dai.google.com/linear/hls/event/iVH_b5kWTteyRCy-YCoHOw/master.m3u8"
+  },
+  {
+    "name": "Weathernation",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8"
+  },
+  {
+    "name": "WeatherNation",
+    "url": "https://cdn.igocast.com/channel6_hls/channel6_master.m3u8"
+  },
+  {
+    "name": "WeatherNation Atlanta",
+    "url": "https://siloh.pluto.tv/lilo/production/WeatherNation/ATL/master.m3u8"
+  },
+  {
+    "name": "WeatherNation Boston",
+    "url": "https://siloh.pluto.tv/lilo/production/WeatherNation/Boston/master.m3u8"
+  },
+  {
+    "name": "WeatherNation Chicago",
+    "url": "https://siloh.pluto.tv/lilo/production/WeatherNation/Chicago/master.m3u8"
+  },
+  {
+    "name": "WeatherNation Dallas",
+    "url": "https://siloh.pluto.tv/lilo/production/WeatherNation/DFW/master.m3u8"
+  },
+  {
+    "name": "WeatherNation Hous",
+    "url": "https://siloh.pluto.tv/lilo/production/WeatherNation/Houston/master.m3u8"
+  },
+  {
+    "name": "WeatherNation ",
+    "url": "https://siloh.pluto.tv/lilo/production/WeatherNation/LA/master.m3u8"
+  },
+  {
+    "name": "WeatherNation",
+    "url": "https://siloh.pluto.tv/lilo/production/WeatherNation/NYC/master.m3u8"
+  },
+  {
+    "name": "WeatherNation",
+    "url": "https://siloh.pluto.tv/lilo/production/WeatherNation/Philadelphia/master.m3u8"
+  },
+  {
+    "name": "WeatherNation",
+    "url": "https://siloh.pluto.tv/lilo/production/WeatherNation/SF/master.m3u8"
+  },
+  {
+    "name": "WeatherSpy",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8"
+  },
+  {
+    "name": "WESH-TV News Orlando FL",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8"
+  },
+  {
+    "name": "West Hollywood WeHoTV",
+    "url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8"
+  },
+  {
+    "name": "Westlake Village WVTV ",
+    "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/westlakevillage/G0133_004/playlist.m3u8"
+  },
+  {
+    "name": "Westminster WTV",
+    "url": "https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/westminsterca/G0571_001/playlist.m3u8"
+  },
+  {
+    "name": "WFMZ Dorney Park Camera",
+    "url": "https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8"
+  },
+  {
+    "name": "WFMZ PennST camera",
+    "url": "https://cdn.jaybirdtv.com/wfmz/6/live/master.m3u8"
+  },
+  {
+    "name": "WFMZ PPL Tower Camera",
+    "url": "https://cdn.jaybirdtv.com/wfmz/channel/9/master.m3u8"
+  },
+  {
+    "name": "WFMZ Traffic",
+    "url": "https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8"
+  },
+  {
+    "name": "WFMZ-TV 69",
+    "url": "https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8"
+  },
+  {
+    "name": "WFTX News",
+    "url": "https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8"
+  },
+  {
+    "name": "WGAL-TV News ",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8"
+  },
+  {
+    "name": "WGBO-DT1",
+    "url": "https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1="
+  },
+  {
+    "name": "WGN Chicago IL",
+    "url": "#EXTVLCOPT:http-referrer=https://plus.teleup.com/"
+  },
+  {
+    "name": "White Plains ",
+    "url": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8"
+  },
+  {
+    "name": "Whittier CityTV ",
+    "url": "https://cdn-unified-hls.streamspot.com/ingest1/89cbf0c54c/playlist.m3u8?origin=1"
+  },
+  {
+    "name": "WHPS Detroit",
+    "url": "https://hls-live-media.cdn01.net/default/stream_46366.m3u8?source=othersites"
+  },
+  {
+    "name": "WildEarth",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8"
+  },
+  {
+    "name": " Access TV",
+    "url": "https://frontdoor.wcat-tv.org:8787/live/live.m3u8"
+  },
+  {
+    "name": " Access ",
+    "url": "https://edu-wcat.azureedge.net/live/live.m3u8"
+  },
+  {
+    "name": "Winthrop Community ",
+    "url": "https://frontdoor.wcat-tv.org:8686/live/live.m3u8"
+  },
+  {
+    "name": "WIPR-DT1",
+    "url": "https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4b037870081ff51/playlist.m3u8"
+  },
+  {
+    "name": "Wir",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8"
+  },
+  {
+    "name": "WISN-TV News",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8"
+  },
+  {
+    "name": "WITN 22",
+    "url": "https://edge-f.swagit.com/live/wilmingtonde/smil:std-4x3-1-a/playlist.m3u8"
+  },
+  {
+    "name": "WJCL-TV News",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8"
+  },
+  {
+    "name": "WLKY-TV News",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8"
+  },
+  {
+    "name": "WLMB",
+    "url": "https://hls-live-media.cdn01.net/default/stream_10327.m3u8?source=othersites"
+  },
+  {
+    "name": "WLNG Radio",
+    "url": "http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8"
+  },
+  {
+    "name": "WLS TV ",
+    "url": "https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8"
+  },
+  {
+    "name": "WMGT-TV News",
+    "url": "https://dai.google.com/linear/hls/event/ygKx2LkmRQCZ_orwBQhfFw/master.m3u8"
+  },
+  {
+    "name": "WMOR-TV News Lakeland FL",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMOR.m3u8"
+  },
+  {
+    "name": "WMPT-DT2 (PBS Create)",
+    "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8"
+  },
+  {
+    "name": "WMTW-TV News Portland ME",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8"
+  },
+  {
+    "name": "Wolcott Governmental TV",
+    "url": "https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8"
+  },
+  {
+    "name": "World Harvest TV",
+    "url": "https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8"
+  },
+  {
+    "name": "WPAA TV",
+    "url": "https://streams.helnix.com/autoHLS/ce3a40274f01c8fc/ce3a40274f01c8fc.m3u8"
+  },
+  {
+    "name": "WPBF-TV",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPBF.m3u8"
+  },
+  {
+    "name": "WPIX 11",
+    "url": "http://71.187.29.220:8000/play/a08o/index.m3u8"
+  },
+  {
+    "name": "WPS TV",
+    "url": "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
+  },
+  {
+    "name": "WPTV News",
+    "url": "https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8"
+  },
+  {
+    "name": "Plattsburgh NY",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8"
+  },
+  {
+    "name": "WPVI-TV News",
+    "url": "https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8"
+  },
+  {
+    "name": "WRA Canal 10",
+    "url": "https://streamtv.intervenhosting.net:3582/hybrid/play.m3u8"
+  },
+  {
+    "name": "Wrestling Spotlight",
+    "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/FZYO537M5ZKAF4MJYX4J/hls3/now_-1m_15s/m.m3u8"
+  },
+  {
+    "name": "(Mega TV)",
+    "url": "https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8"
+  },
+  {
+    "name": "WTVD TV News",
+    "url": "https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8"
+  },
+  {
+    "name": "WTVQ-DT News Lexington KY",
+    "url": "https://dai.google.com/linear/hls/event/7xSxXPG1RqKkNva1wIWlVw/master.m3u8"
+  },
+  {
+    "name": "Wu Tang Collection",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73"
+  },
+  {
+    "name": "WWAY News Willmington NC",
+    "url": "https://dai.google.com/linear/hls/event/A7CgcBYNTuKfvFvW8rmiJA/master.m3u8"
+  },
+  {
+    "name": "WWON TV CH",
+    "url": "https://hls-cdn.tvstartup16.net/tvstartup16-channel/live/mp4:jimbobklynedge/playlist.m3u8"
+  },
+  {
+    "name": "WXXV-TV News Biloxi MS",
+    "url": "https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8"
+  },
+  {
+    "name": "WZRA-CD1",
+    "url": "http://wpso.com:1936/hls/wzra.m3u8"
+  },
+  {
+    "name": "Xcorps",
+    "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TH9UEZK83FAAN5WF4O7A/hls3/now_-1m_15s/m.m3u8"
+  },
+  {
+    "name": "Xcorps",
+    "url": "https://simultv.s.llnwi.net/n4s4/xcorps/interlink.m3u8"
+  },
+  {
+    "name": "Xplore",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8"
+  },
+  {
+    "name": "XZone",
+    "url": "https://simultv.s.llnwi.net/o060/xzone/interlink.m3u8"
+  },
+  {
+    "name": "Yahoo! Finance",
+    "url": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8"
+  },
+  {
+    "name": "Yoga Fit",
+    "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/GDRQZYJ35R11FPW6F3FT/hls3/now_-1m_15s/m.m3u8"
+  },
+  {
+    "name": "YouDotGov",
+    "url": "https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streama/playlist.m3u8"
+  },
+  {
+    "name": "Young Hollywood",
+    "url": "https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8"
+  },
+  {
+    "name": "Youtoo America",
+    "url": "https://thegateway.app/YouToo/CueTones/playlist.m3u8"
+  },
+  {
+    "name": "Yuma77",
+    "url": "https://securestream6.champds.com/hlssstc/YumaCoAZLIVE/master.m3u8"
+  },
+  {
+    "name": "Yuma AZ CH 72",
+    "url": "https://yuma-az.secure.footprint.net/egress/bhandler/yumaaz/streama/playlist.m3u8"
+  },
+  {
+    "name": "Yuma AZ CH 73",
+    "url": "https://yuma-az.secure.footprint.net/egress/bhandler/yumaaz/streamb/playlist.m3u8"
+  },
+  {
+    "name": "Zona de Acción",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312"
+  },
+  {
+    "name": "ТНТ International",
+    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+  
             }
     ]
 }
