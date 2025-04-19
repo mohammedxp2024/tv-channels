@@ -1,63 +1,40 @@
 
       ],
       spain: [
-        {name: "La 1", url: "https://ztnr.rtve.es/ztnr/1688877.m3u8", logo: "https://i.imgur.com/q707G8V.png"},
-        {name: "La 2", url: "https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8", logo: "https://telechancho.github.io/telechancho-iptv/tvlogos/TVE2.png"},
-        {name: "24h", url: "https://ztnr.rtve.es/ztnr/1694255.m3u8", logo: "https://i.imgur.com/faY22MP.png"},
-        {name: "Clan ", url: "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8", logo: "https://telechancho.github.io/telechancho-iptv/tvlogos/ClanTVE.png"},
-        {name: "Real Madrid ", url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545", logo: "https://i.imgur.com/5pMo7dL.png"},
-        {name: "TBN España ", url: "https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8", logo: "https://i.imgur.com/oGvsUH9.png"},
-        ],
+        "name": "PANORAMA FM",
+        "url": "https://tv.chachatv.tk/live/direct/direct/238.m3u8"
+
+
+    },
+    {
+        "name": "Alkass1",
+        "url": "https://3333.koora-live.video/hls/0/stream.m3u8"
+    },
+    {
+"name": "2M Monde",
+    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8"
+  },
+  {
+    "name": "Abalfadhl TV",
+    "url": "https://t.northtelecom.org/ABALFADHLTV.m3u8"
+  },
+  {
+    "name": "ABNsat",
+    "url": "http://rtmp1.abnsat.com/hls/arabic.m3u8"
+  },
+  {
+    "name": "Abu Dhabi Sports 1",
+    "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
+  },
+  {
+    "name": "Afarin TV",
+    "url": "https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8"
+  },
+  {
+    "name": "Al Hayat TV",
+    "url": "http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8"
+  },
+  {
+    "name": "Al Ira
       usa: [
-        {name: "Golden TV", url: "https://bozztv.com/gusa/gusa-goldentv/index.m3u8", logo: "https://i.imgur.com/NNd1lYl.png"},
-        {name: "ABC News", url: "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8", logo: "https://i.imgur.com/7sJLzKi.png"},
-        {name: "BBC News", url: "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8", logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"},
-        {name: "Newsmax", url: "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8", logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRocARncCoja4PuMt9vYWfox7abiMdfsprm5ytlchboCavFu74I8GW1gb1Z9C6aksh50tk&usqp=CAU"},
-        {name: "Buzzr", url: "https://buzzr-samsungus.amagi.tv/playlist.m3u8", logo: "https://i.imgur.com/MGfdxjp.png"},
-        {name: "Comet", url: "https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8"},
-        {name: "TBD", url: "https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8"},
-        {name: "Stadium", url: "https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8"},
-        {name: "Charge!", url: "https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8"},
-        {name: "Telemundo", url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380", logo: "https://i.imgur.com/MGfdxjp.png"},
-        {name: "Sony Novelas", url: "https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8", logo: "https://i.imgur.com/Bm76g96.png"},
-        {name: "Corazon Novelas", url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826", logo: "https://i.imgur.com/KIpSdQC.png"},
-        {name: "TeleNovelas", url: "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8", logo: "https://i.imgur.com/8AKW7Uu.png"},
-        {name: "Kanal D Drama", url: "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8", logo: "https://i.imgur.com/PCM9Ou2.jpeg"},
-        {name: "Passion Novelas", url: "https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8", logo: "https://i.imgur.com/boo9jmf.png"},
-        ],
-      Argentina: [
-        {name: "Net TV", url: "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8"},
-        {name: "UNLP.TV", url: "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8"},
-        {name: "ValeTV.ve", url: "https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8"},
-        ],
-      International: [
-        {name: "Run Time Español", url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649", logo: "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bb42115ec41fea4ac36dec93b294d2e2.webp"},
-        {name: "Euro News Español", url: "https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8"},
-        {name: "Filmstream", url: "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8"},
-        {name: "Rakuten Comedy Movies", url: "https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8"},
-        {name: "Rakuten Family", url: "https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8"},
-        {name: "Rakuten Drama", url: "https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8"},
-        {name: "Salto TV", url: "https://ssh101.bozztv.com/ssh101/redcanindeyu/playlist.m3u8"},
-        {name: "DW Español", url: "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8"},
-        {name: "Sony Canal Novelas", url: "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8"},
-        {name: "Cine Sony", url: "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8"},
-        {name: "T13 News", url: "https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8"},
-        {name: "TCS+", url: "https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8"},
-        {name: "Telavision", url: "https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8"},
-        {name: "Tela SJ videos", url: "https://movil.ejeserver.com/live/telesanjacinto.m3u8"},
-        {name: "Telealtura", url: "https://fl1002.bozztv.com/ssh101/codificador7/playlist.m3u8"},
-        {name: "TeleBrunca", url: "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"},
-        {name: "Telemas", url: "https://viewhn.com/telemas/live/playlist.m3u8"},
-        {name: "Telemundo PR", url: "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"},
-        {name: "WAPA deportes PR", url: "https://live.field59.com/wapa/wapa2/playlist.m3u8"},
-        {name: "WAPA TV PR", url: "https://live.field59.com/wapa/wapa1/playlist.m3u8"},
-        {name: "VZ TV", url: "https://live.obslivestream.com/vztv/index.m3u8"},
-        {name: "VTV", url: "https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8"},
-        {name: "VM Latino music", url: "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"},
-        {name: "Vision Sur", url: "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8"},
-        {name: "Vintage Music", url: "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"},
-        {name: "Via Altomayo", url: "https://live.obslivestream.com/viaaltomayomux/index.m3u8"},
-        {name: "Veo Television", url: "https://movil.ejeserver.com/live/veotv.m3u8"},
-        {name: "Canal del sol", url: "https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8"},
-      ]
-    };
+        
