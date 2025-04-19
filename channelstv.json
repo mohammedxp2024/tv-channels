@@ -1,19 +1,92 @@
-[
-  {
-    "name": "Telemicro",
-    "url": "https://example.com/telemicro.m3u8",
-    "logo": "https://example.com/logo1.png"
-  },
-  {
-    "name": "Antena 7",
-    "url": "https://example.com/antena7.m3u8",
-    "logo": "https://example.com/logo2.png"
-  },
-  {
-    "name": "Antena 7",
-    "url": "https://example.com/antena7.m3u8",
-    "logo": "https://example.com/logo2.png"
-  }
-]
-
-    
+{
+    "arabic": [
+        {
+            "name": "الجزيرة",
+            "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+        },
+        {
+            "name": "العربية",
+            "url": "https://your-arabia-channel-url.com/stream.m3u8"
+        },
+        {
+            "name": "MBC 1",
+            "url": "https://your-mbc1-channel-url.com/stream.m3u8"
+        },
+        {
+            "name": "العراقية",
+            "url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8"
+        },
+        {
+            "name": "العراقية الاخبارية",
+            "url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8"
+        },
+        {
+            "name": "الشرقية",
+            "url": "https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8"
+        },
+        {
+            "name": "الشرقية الاخبارية",
+            "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8"
+        },
+        {
+            "name": "الاولى",
+            "url": "https://63b03f7689049.streamlock.net/live/_definst_/1tv/chunklist.m3u8"
+        },
+        {
+            "name": "دجلة",
+            "url": "https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8"
+        },
+        {
+            "name": "الرشيد",
+            "url": "https://media1.livaat.com/static/AL-RASHEED-HD/chunklist.m3u8"
+        },
+        {
+            "name": "الراقدين",
+            "url": "https://arrafidain.tvplayer.online/arrafidaintv/source2/chunks.m3u8"
+        },
+        {
+            "name": "افاق",
+            "url": "https://s1.ettehadlive.com/live/1/chunklist.m3u8"
+        },
+        {
+            "name": "العهد",
+            "url": "https://148.66.130.171:1935/AlahadLiveStream/AlahadLiveStream_360p/chunklist_w1753655915.m3u8"
+        },
+        {
+            "name": "MBC 2",
+            "url": "https://your-mbc2-channel-url.com/stream.m3u8"
+        },
+        {
+            "name": "روتانا سينما",
+            "url": "https://your-rotana-channel-url.com/stream.m3u8"
+        }
+    ],
+    "sports": [
+        {
+            "name": "beIN Sports 2",
+            "url": "https://your-bein2-channel-url.com/stream.m3u8"
+        }
+    ],
+    "entertainment": [
+        {
+            "name": "MBC Bollywood",
+            "url": "https://your-mbcbollywood-channel-url.com/stream.m3u8"
+        }
+    ],
+    "variety": [
+        {
+            "name": "National Geographic",
+            "url": "https://your-natgeo-channel-url.com/stream.m3u8"
+        }
+    ],
+    "countries": [
+        {
+            "name": "القناة المصرية",
+            "url": "https://your-egyptian-channel-url.com/stream.m3u8"
+        },
+        {
+            "name": "القناة السعودية",
+            "url": "https://your-saudi-channel-url.com/stream.m3u8"
+        }
+    ]
+}
