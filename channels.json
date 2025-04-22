@@ -12011,8 +12011,62 @@
     "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
   
             }
-    ]
-}
+    ],
 
+"countries": {
+    "iq": [
+      {
+        "name": "1 - قناة العراقية",
+        "url": "https://tv.chachatv.tk/live/direct/direct/901.m3u8"
+      },
+      {
+        "name": "2 - قناة السومرية",
+        "url": "https://tv.chachatv.tk/live/direct/direct/902.m3u8"
+      }
+    ],
+    "sa": [
+      {
+        "name": "1 - السعودية الأولى",
+        "url": "https://tv.chachatv.tk/live/direct/direct/911.m3u8"
+      },
+      {
+        "name": "2 - الإخبارية",
+        "url": "https://tv.chachatv.tk/live/direct/direct/912.m3u8"
+      }
+    ],
+    "eg": [
+      {
+        "name": "1 - النيل دراما",
+        "url": "https://tv.chachatv.tk/live/direct/direct/921.m3u8"
+      },
+      {
+        "name": "2 - الحياة",
+        "url": "https://tv.chachatv.tk/live/direct/direct/922.m3u8"
+      }
+    ],
+    "tr": [
+      {
+        "name": "1 - TRT Türk",
+        "url": "https://tv.chachatv.tk/live/direct/direct/931.m3u8"
+      }
+    ],
+    "us": [
+      {
+        "name": "1 - CNN",
+        "url": "https://tv.chachatv.tk/live/direct/direct/941.m3u8"
+      }
+    ],
+    "ae": [
+      {
+        "name": "1 - قناة دبي",
+        "url": "https://tv.chachatv.tk/live/direct/direct/951.m3u8"
+      },
+      {
+        "name": "2 - سما دبي",
+        "url": "https://tv.chachatv.tk/live/direct/direct/952.m3u8"
+      }
+    ]
+  }
+}
 
 
