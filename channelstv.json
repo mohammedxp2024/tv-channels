@@ -114,5 +114,26 @@
             "name": "القناة السعودية",
             "url": "https://your-saudi-channel-url.com/stream.m3u8"
         }
+],
+"private": [
+    {
+      "name": "1 - SPORT KLUB 6",
+      "url": "http://5giptv.me:8880/867510/784639/115603"
+    },
+    {
+      "name": "2 - SPORT KLUB GOLF",
+      "url": "http://5giptv.me:8880/867510/784639/115597"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+        
     ]
 }
