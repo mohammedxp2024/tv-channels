@@ -1,139 +1,44 @@
 {
-    "arabic": [
-        {
-            "name": "الجزيرة",
-            "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
-        },
-        {
-
-      "name": "beIN Sports 2 HD",
-       "url" : "http://vlue.life:80/816745222020/181252287918/483541",
-        "image": "https://img.kooora.com/?i=o%2fh%2f1%2f202%2fbein-sports-hd-1.png"
-
-        
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            
-        },
-        {
-            "name": "العربية",
-            "url": "https://your-arabia-channel-url.com/stream.m3u8"
-        },
-        {
-            "name": "MBC 1",
-            "url": "https://your-mbc1-channel-url.com/stream.m3u8"
-        },
-        {
-            "name": "العراقية",
-            "url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8"
-        },
-        {
-            "name": "العراقية الاخبارية",
-            "url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8"
-        },
-        {
-            "name": "الشرقية",
-            "url": "https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8"
-        },
-        {
-            "name": "الشرقية الاخبارية",
-            "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8"
-        },
-        {
-            "name": "الاولى",
-            "url": "https://63b03f7689049.streamlock.net/live/_definst_/1tv/chunklist.m3u8"
-        },
-        {
-            "name": "دجلة",
-            "url": "https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8"
-        },
-        {
-            "name": "الرشيد",
-            "url": "https://media1.livaat.com/static/AL-RASHEED-HD/chunklist.m3u8"
-        },
-        {
-            "name": "الراقدين",
-            "url": "https://arrafidain.tvplayer.online/arrafidaintv/source2/chunks.m3u8"
-        },
-        {
-            "name": "افاق",
-            "url": "https://s1.ettehadlive.com/live/1/chunklist.m3u8"
-        },
-        {
-            "name": "العهد",
-            "url": "https://148.66.130.171:1935/AlahadLiveStream/AlahadLiveStream_360p/chunklist_w1753655915.m3u8"
-        },
-        {
-            "name": "MBC 2",
-            "url": "https://your-mbc2-channel-url.com/stream.m3u8"
-        },
-        {
-            "name": "روتانا سينما",
-            "url": "https://your-rotana-channel-url.com/stream.m3u8"
-        }
-    ],
-    "sports": [
-        {
-            "name": "beIN Sports 2",
-            "url": "https://your-bein2-channel-url.com/stream.m3u8"
-        }
-    ],
-    "entertainment": [
-        {
-            "name": "MBC Bollywood",
-            "url": "https://your-mbcbollywood-channel-url.com/stream.m3u8"
-        }
-    ],
-    "variety": [
-        {
-            "name": "National Geographic",
-            "url": "https://your-natgeo-channel-url.com/stream.m3u8"
-        }
-    ],
-    "countries": [
-        {
-            "name": "القناة المصرية",
-            "url": "https://your-egyptian-channel-url.com/stream.m3u8"
-        },
-        {
-            "name": "القناة السعودية",
-            "url": "https://your-saudi-channel-url.com/stream.m3u8"
-        }
-],
-"private": [
-    {
-      "name": "1 - SPORT KLUB 6",
-      "url": "http://5giptv.me:8880/867510/784639/115603"
-    },
-    {
-      "name": "2 - SPORT KLUB GOLF",
-      "url": "http://5giptv.me:8880/867510/784639/115597"
-    }
+  "sports": [
+    { "name": "1 - beIN SPORTS HD", "url": "http://example.com/stream1.m3u8" },
+    { "name": "2 - Sky Sports News", "url": "http://example.com/skysports.m3u8" },
+    { "name": "3 - ESPN HD", "url": "http://example.com/espn.m3u8" },
+    { "name": "4 - Fox Sports", "url": "http://example.com/foxsports.m3u8" },
+    { "name": "5 - WWE Network", "url": "http://example.com/wwe.m3u8" }
+  ],
+  "arabic": [
+    { "name": "1 - MBC1", "url": "http://example.com/mbc1.m3u8" },
+    { "name": "2 - Rotana Cinema", "url": "http://example.com/rotanacinema.m3u8" },
+    { "name": "3 - Al Jazeera", "url": "http://example.com/aljazeera.m3u8" },
+    { "name": "4 - Dubai TV", "url": "http://example.com/dubaitv.m3u8" },
+    { "name": "5 - Al Arabiya", "url": "http://example.com/alarabiya.m3u8" }
+  ],
+  "private": [
+    { "name": "1 - SPORT KLUB 6", "url": "http://5giptv.me:8880/867510/784639/115603" },
+    { "name": "2 - SPORT KLUB GOLF", "url": "http://5giptv.me:8880/867510/784639/115597" },
+    { "name": "3 - SPORT KLUB 7", "url": "http://5giptv.me:8880/867510/784639/115610" },
+    { "name": "4 - SPORT KLUB HD", "url": "http://5giptv.me:8880/867510/784639/115596" },
+    { "name": "5 - Arena Sport 1", "url": "http://5giptv.me:8880/867510/784639/115611" }
+  ],
+  "entertainment": [
+    { "name": "1 - Netflix Series", "url": "http://example.com/netflix.m3u8" },
+    { "name": "2 - HBO HD", "url": "http://example.com/hbo.m3u8" },
+    { "name": "3 - Starz", "url": "http://example.com/starz.m3u8" },
+    { "name": "4 - AMC HD", "url": "http://example.com/amc.m3u8" },
+    { "name": "5 - FX Network", "url": "http://example.com/fx.m3u8" }
+  ],
+  "variety": [
+    { "name": "1 - National Geographic", "url": "http://example.com/natgeotv.m3u8" },
+    { "name": "2 - Discovery Channel", "url": "http://example.com/discovery.m3u8" },
+    { "name": "3 - Animal Planet", "url": "http://example.com/animalplanet.m3u8" },
+    { "name": "4 - History Channel", "url": "http://example.com/history.m3u8" },
+    { "name": "5 - Travel Channel", "url": "http://example.com/travel.m3u8" }
+  ],
+  "world": [
+    { "name": "1 - BBC World", "url": "http://example.com/bbcworld.m3u8" },
+    { "name": "2 - CNN International", "url": "http://example.com/cnn.m3u8" },
+    { "name": "3 - France 24", "url": "http://example.com/france24.m3u8" },
+    { "name": "4 - DW Arabic", "url": "http://example.com/dwarabic.m3u8" },
+    { "name": "5 - Russia Today", "url": "http://example.com/rt.m3u8" }
   ]
-}
-
-
-
-
-
-
-
-
-        
-    ]
 }
